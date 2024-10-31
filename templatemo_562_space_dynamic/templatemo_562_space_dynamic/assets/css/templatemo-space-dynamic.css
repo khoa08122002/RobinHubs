@@ -311,12 +311,9 @@ header
   transition: all 0.3s ease 0s;
 }
 
-.header-area .main-nav .logo h4 {
-    font-size: 24px;
-    font-weight: 700;
-    text-transform: uppercase;
-    color: #03a4ed;
-    line-height: 100px;
+.header-area .main-nav .logo img {
+  width: 85px;
+  height: 85px;
     float: left;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
